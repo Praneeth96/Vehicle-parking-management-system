@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "775612909045",
+    "firebase_url": "https://vehicalparkingsystem.firebaseio.com",
+    "project_id": "vehicalparkingsystem",
+    "storage_bucket": "vehicalparkingsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775612909045:android:8747a8239a4684af620cbc",
+        "android_client_info": {
+          "package_name": "com.example.praneeth.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775612909045-jass7jfncp0kgj2i2jgfkq7ji2dbp2m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praneeth.myapplication",
+            "certificate_hash": "5e2d2cfc5453f933f2717b56e572c010d11e6d2d"
+          }
+        },
+        {
+          "client_id": "775612909045-vcg292q84tretc7dki6elrbrj98it93o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJ6nWoQ4HkflUInove2IIK3blmPZszgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775612909045-vcg292q84tretc7dki6elrbrj98it93o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775612909045:android:d911d4f88713c960620cbc",
+        "android_client_info": {
+          "package_name": "com.example.praneeth.vehical_parkingmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775612909045-nq1f4mt3psgr7ir9s95dn85bf0q6bf85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praneeth.vehical_parkingmanagementsystem",
+            "certificate_hash": "5e2d2cfc5453f933f2717b56e572c010d11e6d2d"
+          }
+        },
+        {
+          "client_id": "775612909045-vcg292q84tretc7dki6elrbrj98it93o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJ6nWoQ4HkflUInove2IIK3blmPZszgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775612909045-vcg292q84tretc7dki6elrbrj98it93o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
